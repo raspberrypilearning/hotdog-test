@@ -1,0 +1,9 @@
+title: Hotdog Testing Images
+hero_image: images/banner.png
+description: collection of images of hotdogs for testing a machine learning model
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Hotdog testing images
